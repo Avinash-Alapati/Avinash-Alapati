@@ -58,13 +58,6 @@
 ###
 
 
-
-###
-
-<img src="https://raw.githubusercontent.com/Avinash-Alapati/Avinash-Alapati/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Avinash-Alapati.Avinash-Alapati&"  />
 </div>
