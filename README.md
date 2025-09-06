@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 i'm Avinashh</h1>
+<h1 align="center">Hey 👋 i'm Avinashh</h1>
 
 ###
 
-<p align="left">I'm A Full Stack Developer</p>
+<p align="center">I'm A Full Stack Developer</p>
 
 ###
 
