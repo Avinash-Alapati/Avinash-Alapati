@@ -61,11 +61,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-HTML         10 mins         █████████████▒░░░░░░░░░░░   52.88 %
-JavaScript   7 mins          ████████▒░░░░░░░░░░░░░░░░   33.92 %
-EJS          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+JavaScript   1 hr 9 mins     ████████████████████░░░░░   80.44 %
+HTML         16 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
