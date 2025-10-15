@@ -61,7 +61,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 07 October 2025 - To: 14 October 2025
 
 Java              13 mins         ████████████▓░░░░░░░░░░░░   50.16 %
 XML               5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
