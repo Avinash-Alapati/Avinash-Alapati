@@ -61,9 +61,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2025 - To: 19 October 2025
+From: 13 October 2025 - To: 20 October 2025
 
-Other        1 hr 40 mins    █████████▓░░░░░░░░░░░░░░░   38.76 %
+JavaScript   5 hrs 3 mins    ███████████████░░░░░░░░░░   60.44 %
+Other        1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   20.04 %
 ```
 
 <!--END_SECTION:waka-->
