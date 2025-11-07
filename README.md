@@ -61,12 +61,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-TypeScript   12 mins         ██████████▓░░░░░░░░░░░░░░   43.16 %
-C++          11 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
-JavaScript   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++          11 mins         ███████████████░░░░░░░░░░   60.29 %
+JavaScript   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+TypeScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
