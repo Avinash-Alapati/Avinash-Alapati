@@ -61,12 +61,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2025 - To: 06 November 2025
+From: 31 October 2025 - To: 07 November 2025
 
-C++          11 mins         ███████████████░░░░░░░░░░   60.29 %
-JavaScript   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
-TypeScript   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+C++   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
