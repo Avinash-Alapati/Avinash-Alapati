@@ -61,9 +61,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2025 - To: 28 November 2025
+From: 22 November 2025 - To: 29 November 2025
 
-No activity tracked
+Vue.js       2 mins          █████████▓░░░░░░░░░░░░░░░   38.49 %
+Markdown     2 mins          █████████▒░░░░░░░░░░░░░░░   37.96 %
+TypeScript   0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 ```
 
 <!--END_SECTION:waka-->
