@@ -61,13 +61,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 December 2025 - To: 18 December 2025
+From: 12 December 2025 - To: 19 December 2025
 
-Java              53 mins         ████████████▓░░░░░░░░░░░░   50.56 %
-JavaScript        24 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-Groovy            13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Java Properties   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-HTML              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
