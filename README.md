@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm A Full Stack Developer</p>
+<p align="center">I'm A Backend Dev</p>
 
 ###
 
