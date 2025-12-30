@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• Core skills : DSA, OOPS, DBMS, CN , OS<br>• Programming languages : Java, Python,<br>• Current focus : Backend development<br>• Projects : still in progress<br>• I enjoy : Sharing my knowledge !!</p>
+<p align="left">• Core skills : DSA, OOPS, DBMS, CN , OS<br>• Programming languages : JavaScript, Java, Python<br>• Current focus : Backend development<br>• Projects : still in progress<br>• I enjoy : Sharing my knowledge !!</p>
 
 ###
 
