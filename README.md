@@ -61,11 +61,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-JavaScript   5 hrs 23 mins   ████████████████████████░   95.90 %
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript   5 hrs 29 mins   ████████████████████████░   96.01 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
