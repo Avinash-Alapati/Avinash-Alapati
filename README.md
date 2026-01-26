@@ -61,13 +61,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-JavaScript   6 hrs 39 mins   ███████████████████████░░   91.62 %
-JSON         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   6 hrs 47 mins   ██████████████████████░░░   88.55 %
+JSON         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Python       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Vue.js       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
