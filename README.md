@@ -61,13 +61,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2026 - To: 01 February 2026
+From: 26 January 2026 - To: 02 February 2026
 
-JavaScript        4 hrs 45 mins   ███████████▓░░░░░░░░░░░░░   47.02 %
-Python            1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-Vue.js            1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-XML               43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-YAML              21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+JavaScript   5 hrs 13 mins   ████████████████▓░░░░░░░░   67.27 %
+Vue.js       1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Python       41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
