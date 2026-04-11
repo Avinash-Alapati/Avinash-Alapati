@@ -61,10 +61,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2026 - To: 09 April 2026
+From: 03 April 2026 - To: 10 April 2026
 
-JavaScript   10 mins               █████████████████████░░░░   83.46 %
-Other        0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+JavaScript   2 mins                ██████████████▓░░░░░░░░░░   58.68 %
+Other        0 secs                █████░░░░░░░░░░░░░░░░░░░░   20.04 %
 ```
 
 <!--END_SECTION:waka-->
