@@ -60,10 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2026 - To: 22 May 2026
+From: 16 May 2026 - To: 23 May 2026
 
-TypeScript   10 mins               █████████████▒░░░░░░░░░░░   53.25 %
-Other        8 mins                ██████████▒░░░░░░░░░░░░░░   41.48 %
+TypeScript   10 mins               ██████████████████████▓░░   90.99 %
+JavaScript   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
 ```
 
 <!--END_SECTION:waka-->
