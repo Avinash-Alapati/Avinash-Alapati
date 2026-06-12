@@ -60,10 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-TypeScript   0 secs                ███████████▓░░░░░░░░░░░░░   46.11 %
-Other        0 secs                ███████████░░░░░░░░░░░░░░   43.49 %
+Bash         1 min                 ███████████▓░░░░░░░░░░░░░   46.16 %
+TypeScript   1 min                 ████████▓░░░░░░░░░░░░░░░░   34.71 %
+JSON         0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Other        0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
