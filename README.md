@@ -60,10 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
-Python   13 mins               ████████████████████████▓   98.67 %
-Bash     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python       13 mins               █████████████████████░░░░   84.45 %
+TypeScript   1 min                 ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Markdown     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Bash         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
