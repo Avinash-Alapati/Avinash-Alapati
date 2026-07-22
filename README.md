@@ -60,9 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2026 - To: 20 July 2026
+From: 14 July 2026 - To: 21 July 2026
 
-No activity tracked
+Go         28 mins               █████████████████▓░░░░░░░   70.97 %
+TeX        4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+YAML       4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+Markdown   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Other      0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
