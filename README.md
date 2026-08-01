@@ -60,11 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2026 - To: 30 July 2026
+From: 24 July 2026 - To: 31 July 2026
 
-JavaScript   13 mins               ███████████████████▓░░░░░   79.27 %
-Bash         2 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+JavaScript   9 mins                ████████████████████████▒   97.88 %
+JSON         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
