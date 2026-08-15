@@ -60,11 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-HTML                       46 mins               ██████░░░░░░░░░░░░░░░░░░░   23.78 %
-YAML                       31 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-Other                      29 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Python                     1 hr 14 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+Other                      42 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
 ```
 
 <!--END_SECTION:waka-->
