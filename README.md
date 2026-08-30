@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-JavaScript   55 mins               ███████████▓░░░░░░░░░░░░░   47.11 %
-JSON         24 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Other        21 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+JavaScript                 55 mins               ███████████░░░░░░░░░░░░░░   44.60 %
+JSON                       24 mins               █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+Other                      21 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
 ```
 
 <!--END_SECTION:waka-->
