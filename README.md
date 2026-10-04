@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2026 - To: 02 October 2026
+From: 26 September 2026 - To: 03 October 2026
 
-Python       7 hrs 20 mins         ███████████████████░░░░░░   76.16 %
-TypeScript   54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Other        25 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Python       5 hrs 29 mins         ██████████████████░░░░░░░   71.82 %
+TypeScript   54 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Other        18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
